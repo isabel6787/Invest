@@ -1,0 +1,28 @@
+.header{
+    padding: 5px 0;
+    background: black;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+h4{
+    display: flex;
+    color: white;
+    margin-right: 1100px;
+    
+    
+}
+
+button{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.915);
+    border: 0ch;
+    
+}
+
+.auth-buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
